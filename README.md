@@ -1,5 +1,5 @@
 # FOX
-FOX - Fire Observation eXchange
+FOX - Fire Observation eXchange<br>
 A scalable distributed system for early wildfire detection.
 
 ## Quick Start
