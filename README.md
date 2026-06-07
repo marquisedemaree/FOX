@@ -38,7 +38,7 @@ This will:
 - Route events to four regional worker nodes for parallel processing.
 - Evaluate detection rules and generate wildfire alerts when fire conditions are detected.
 - Visualize sensors, active fires, system metrics, and alerts in real time.
-- Allow users to create fires, pause the simulation, and reset the environment. :contentReference[oaicite:0]{index=0}
+- Allow users to create fires, pause the simulation, and reset the environment.
 
 ### Controls
 | Key | Action |
