@@ -27,7 +27,7 @@ From the command line:
 5. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
-Run the full FOX pipeline: `python main.py`
+Run the simulation: `python main.py`
 
 This will:
 
