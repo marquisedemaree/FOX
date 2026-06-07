@@ -58,4 +58,3 @@ This will:
 - Dynamic Fire Simulation: Models expanding wildfire zones that influence nearby sensor readings over time. 
 - Real-Time Dashboard: Displays sensor status, active fires, alerts, queue activity, and performance metrics. 
 - Interactive Scenario Creation: Users can create fires anywhere on the map and immediately observe system behavior. 
-- Portfolio-Ready Distributed Systems Demonstration: Showcases event streaming, message queues, regional partitioning, parallel processing, and real-time visualization in a single application. :contentReference[oaicite:10]{index=10}
