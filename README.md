@@ -3,7 +3,7 @@ FOX - Fire Observation eXchange<br>
 A scalable distributed system for early wildfire detection.
 
 ## Quick Start
-These instructions will help you run RAT locally for demo and evaluation.
+These instructions will help you run FOX locally for demo and evaluation.
 
 ### Prerequisites
 - Git
