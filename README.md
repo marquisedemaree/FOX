@@ -60,4 +60,4 @@ This will:
 - Interactive Scenario Creation: Users can create fires anywhere on the map and immediately observe system behavior. 
 
 ## File Structure Diagram
-<img width="522" height="566" alt="File Structure Diagram" src="https://github.com/user-attachments/assets/bd2d3fbc-8c87-4c41-8e78-793d268af057" />
+<img width="522" height="445" alt="file structure diagram" src="https://github.com/user-attachments/assets/51839088-bdb1-40a5-93a6-49e6c9dd4f75" />
